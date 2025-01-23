@@ -1,11 +1,14 @@
-<h2 align="left">Hi 👋, I am Lavish</h2>
-
-###
+<h1 align="center">Hi 👋, I'm Lavish</h1>
+<h3 align="center">A passionate AIML Developer from India</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lavisharma-25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lavisharma-25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavisharma-25&label=Profile%20views&color=0e75b6&style=flat" alt="lavisharma-25" /> </p>
 
 ###
 

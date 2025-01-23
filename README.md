@@ -1,47 +1,54 @@
+<h2 align="left">Hi 👋! I am Lavish</h2>
+
+###
+
 <div align="center">
-# Hi 👋, I'm Lavish Sharma
-
-A passionate Generative AI Developer and Python Enthusiast from India
+  <img src="https://github-readme-stats.vercel.app/api?username=lavisharma-25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lavisharma-25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-🚀 **I’m currently learning:** LangChain and exploring Generative AI solutions.  
-💻 **I’m currently working on:** An LLM-powered application for company performance metrics.  
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/lavish-sharma) | [Email](mailto:lavish.sh25@gmail.com)  
-📝 **Check out my documentation:** [Documentation Repository](https://github.com/YourUsername/Documentation)  
-💬 **I regularly write articles on:** AI, Python, and Machine Learning topics in my [Blog](#).  
-👨‍💻 **All of my projects are available at:** [My Portfolio Website](https://github.com/YourUsername).  
 
----
+###
 
-## Connect with Me:  
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black?style=for-the-badge&logo=github)](https://github.com/YourUsername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lavish%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lavish-sharma)
+<img align="right" height="150" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif"  />
 
----
+###
 
-## 🛠️ Languages and Tools:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![LangChain](https://img.shields.io/badge/LangChain-blueviolet?style=for-the-badge&logo=python&logoColor=white)  
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+</div>
 
----
+###
 
-## Featured Projects:  
-### [Arrhythmia Detection Using ML](https://github.com/YourUsername/Arrhythmia-Detection)  
-A machine learning project to detect arrhythmia using hospital datasets.  
+<div align="left">
+  <a href="mailto:lavish.sh25@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/lavish-sharma">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@lavish.sh25">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+</div>
 
-### [AI Assistant with Gemini API](https://github.com/YourUsername/AI-Assistant)  
-Real-time speech-to-text assistant built with Python and Gemini API.  
+###
 
-### [Live Speech Transcription](https://github.com/YourUsername/Speech-Transcription)  
-A real-time transcription and translation project using OpenAI's Whisper.  
+<br clear="both">
 
----
-
-Feel free to adapt the text, add badges, or provide links to specific repositories. Let me know if you need help customizing further!
+<img src="https://raw.githubusercontent.com/lavisharma-25/lavisharma-25/output/snake.svg" alt="Snake animation" />

@@ -1,7 +1,8 @@
+<div align="center">
 # Hi 👋, I'm Lavish Sharma
 
 A passionate Generative AI Developer and Python Enthusiast from India
-
+</div>
 🚀 **I’m currently learning:** LangChain and exploring Generative AI solutions.  
 💻 **I’m currently working on:** An LLM-powered application for company performance metrics.  
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/lavish-sharma) | [Email](mailto:lavish.sh25@gmail.com)  

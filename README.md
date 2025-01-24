@@ -8,9 +8,9 @@
 
 ###
 <div>
-- 🌱 I’m currently learning Generative AI
-- 👨‍💻 All of my projects are available at <a href="https://www.lavish-portfolio.com" target="_blank">www.lavish-portfolio.com</a>
-- 📄 Know about my experiences <a href="Lavish_Sharma_Resume.pdf" target="_blank">Lavish_Sharma_Resume.pdf</a>
+- 🌱 I’m currently learning Generative AI <br>
+- 👨‍💻 All of my projects are available at <a href="https://www.lavish-portfolio.com" target="_blank">www.lavish-portfolio.com</a> <br>
+- 📄 Know about my experiences <a href="Lavish_Sharma_Resume.pdf" target="_blank">Lavish_Sharma_Resume.pdf</a> <br>
 </div>
 
 

@@ -14,9 +14,19 @@
 
 <h3 align="left">Connect with me:</h3><hr>
 <p align="left">
+  <div align="left">
   <a href="https://linkedin.com/in/lavish-sharma-0108nm" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavish-sharma-0108nm" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://linkedin.com/in/lavish-sharma-0108nm" target="blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/lavish-sharma-0108nm" target="blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
+
+###
 </p>
 
 <h3 align="left">Tools & Technologies</h3><hr>

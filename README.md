@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lavish</h1>
 <h3 align="center">A passionate AIML Developer from India</h3>
 
+<div style="float: right; text-align: center;">
 <img align="right" height="150" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" alt="coding gif" />
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=lavisharma-25&label=Profile%20views&color=0e75b6&style=flat" alt="lavisharma-25 profile views" />
-</p>
+<p><img src="https://komarev.com/ghpvc/?username=lavisharma-25&label=Profile%20views&color=0e75b6&style=flat" alt="lavisharma-25 profile views" /></p>
+</div>
 
 <div>
 - 🌱 I’m currently learning Generative AI <br>

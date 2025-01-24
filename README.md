@@ -14,19 +14,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <hr>
-<p align="left">
-  <div align="left">
-    <a href="https://linkedin.com/in/lavish-sharma-0108nm" target="blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" />
-    </a>
-    <a href="mailto:lavish.sh25@gmail.com" target="blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo" />
-    </a>
-    <a href="https://medium.com/@lavish-sharma" target="blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" height="40" alt="medium logo" />
-    </a>
-  </div>
-</p>
+<div align="left" style="display: flex; gap: 10px;">
+  <a href="https://linkedin.com/in/lavish-sharma-0108nm" target="_blank" style="text-decoration: none; line-height: 0;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:lavish.sh25@gmail.com" target="_blank" style="text-decoration: none; line-height: 0;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://medium.com/@lavish-sharma" target="_blank" style="text-decoration: none; line-height: 0;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" height="40" alt="medium logo" />
+  </a>
+</div>
+
 
 
 <h3 align="left">Tools & Technologies</h3><hr>

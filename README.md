@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lavish</h1>
 <h3 align="center">A passionate AIML Developer from India</h3>
 <div>
-  - 🌱 I’m currently learning Generative AI **LangChain, LLM, Prompt Engineering, OpenAI, Gemini, HuggingFace, Ollama**  <br>
+  - 🌱 I’m currently learning Generative AI  <br> 
   - 👨‍💻 All of my projects are available at [www.lavish-portfolio.com](www.lavish-portfolio.com)  <br>
   - 📄 Know about my experiences [Lavish_Sharma_Resume.pdf](Lavish_Sharma_Resume.pdf) <br>
 
@@ -12,6 +12,8 @@
     </p>
   </div>
 </div>
+
+
 
 
 <h3 align="left">Connect with me:</h3>

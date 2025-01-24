@@ -1,17 +1,24 @@
 <h1 align="center">Hi 👋, I'm Lavish</h1>
 <h3 align="center">A passionate AIML Developer from India</h3>
 
-<div style="float: right; text-align: center;">
-<img align="right" height="150" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" alt="coding gif" />
-</div>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=lavisharma-25&label=Profile%20views&color=0e75b6&style=flat" alt="lavisharma-25 profile views" /></p>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; padding: 10px;">
+      - 🌱 I’m currently learning Generative AI <br>
+      - 👨‍💻 All of my projects are available at <a href="https://www.lavish-portfolio.com" target="_blank">www.lavish-portfolio.com</a> <br>
+      - 📄 Know about my experiences <a href="Lavish_Sharma_Resume.pdf" target="_blank">Lavish_Sharma_Resume.pdf</a>
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img height="150" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" alt="coding gif" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center; padding: 10px;">
+      <img src="https://komarev.com/ghpvc/?username=lavisharma-25&label=Profile%20views&color=0e75b6&style=flat" alt="lavisharma-25 profile views" />
+    </td>
+  </tr>
+</table>
 
-###
-<div>
-- 🌱 I’m currently learning Generative AI <br>
-- 👨‍💻 All of my projects are available at <a href="https://www.lavish-portfolio.com" target="_blank">www.lavish-portfolio.com</a> <br>
-- 📄 Know about my experiences <a href="Lavish_Sharma_Resume.pdf" target="_blank">Lavish_Sharma_Resume.pdf</a> <br>
-</div>
 
 
 

@@ -2,9 +2,9 @@
 <h3 align="center">A passionate AIML Developer from India</h3>
 
 <div style="float: right; text-align: center;">
-<img align="right" height="150" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" alt="coding gif" /><br>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=lavisharma-25&label=Profile%20views&color=0e75b6&style=flat" alt="lavisharma-25 profile views" /></p>
+<img align="right" height="150" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" alt="coding gif" />
 </div>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=lavisharma-25&label=Profile%20views&color=0e75b6&style=flat" alt="lavisharma-25 profile views" /></p>
 
 ###
 <div>

@@ -6,7 +6,6 @@
 <img src="https://komarev.com/ghpvc/?username=lavisharma-25&label=Profile%20views&color=0e75b6&style=flat" alt="lavisharma-25 profile views" />
 </p>
 
-###
 <div>
 - 🌱 I’m currently learning Generative AI <br>
 - 👨‍💻 All of my projects are available at <a href="https://www.lavish-portfolio.com" target="_blank">www.lavish-portfolio.com</a> <br>

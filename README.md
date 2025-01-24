@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lavish</h1>
 <h3 align="center">A passionate AIML Developer from India</h3>
 
-<table style="width: 100%; max-width: 100%; border-collapse: collapse; table-layout: fixed;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="vertical-align: top; padding: 10px; word-wrap: break-word; width: 50%;">
+    <td style="vertical-align: top; padding: 10px; width: 70%;"> <!-- Increased width for the first column -->
       - 🌱 I’m currently learning Generative AI <br>
       - 👨‍💻 All of my projects are available at <a href="https://www.lavish-portfolio.com" target="_blank">www.lavish-portfolio.com</a> <br>
       - 📄 Know about my experiences <a href="Lavish_Sharma_Resume.pdf" target="_blank">Lavish_Sharma_Resume.pdf</a>
     </td>
-    <td style="text-align: center; padding: 10px; width: 50%; display: flex; justify-content: center;">
+    <td style="text-align: center; padding: 10px; width: 30%;"> <!-- Width for the second column -->
       <img height="150" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" alt="coding gif" />
     </td>
   </tr>

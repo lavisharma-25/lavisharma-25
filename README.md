@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lavish</h1>
 <h3 align="center">A passionate AIML Developer from India</h3>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse; word-wrap: break-word;">
   <tr>
-    <td style="vertical-align: top; padding: 10px;">
+    <td style="vertical-align: top; padding: 10px; width: 60%; font-size: 16px;">
       - 🌱 I’m currently learning Generative AI <br>
       - 👨‍💻 All of my projects are available at <a href="https://www.lavish-portfolio.com" target="_blank">www.lavish-portfolio.com</a> <br>
       - 📄 Know about my experiences <a href="Lavish_Sharma_Resume.pdf" target="_blank">Lavish_Sharma_Resume.pdf</a>
     </td>
-    <td style="text-align: center; padding: 10px;">
-      <img height="150" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" alt="coding gif" />
+    <td style="text-align: center; padding: 10px; width: 40%;">
+      <img height="150" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" alt="coding gif" style="max-width: 100%; height: auto;" />
     </td>
   </tr>
   <tr>
@@ -18,6 +18,7 @@
     </td>
   </tr>
 </table>
+
 
 
 

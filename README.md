@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lavish</h1>
 <h3 align="center">A passionate AIML Developer from India</h3>
 
-<div>
-  <div>
+<div colspan="2">
+  <div col="1">
 - 🌱 I’m currently learning Generative AI
 - 👨‍💻 All of my projects are available at <a href="https://www.lavish-portfolio.com" target="_blank">www.lavish-portfolio.com</a>
 - 📄 Know about my experiences <a href="Lavish_Sharma_Resume.pdf" target="_blank">Lavish_Sharma_Resume.pdf</a>
   </div>
-<div colspan=2 style="float: right; text-align: center;">
+<div col="2" style="float: right; text-align: center;">
 <img align="right" height="150" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" alt="coding gif" />
 </div>
   <br><br><br><br><br><br><br><br>

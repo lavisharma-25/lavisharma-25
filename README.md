@@ -6,21 +6,21 @@
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=lavisharma-25&label=Profile%20views&color=0e75b6&style=flat" alt="lavisharma-25" /> </p>
 <img align="right" alt="coding" width="300" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif">
 
-- 🔭 I’m currently working on [Invoice Training](LINK)
+- 🔭 I’m currently working on [AI Assistant](https://github.com/lavisharma-25/AI-Assistant)
 
 - 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [www.lavish-portfolio.com](www.lavish-portfolio.com)
 
-- 📝 I regularly write articles on [www.lavish-blogs.com](www.lavish-blogs.com)
+- 📝 I regularly write articles on [www.lavish-blogs.com](https://medium.com/@lavish.sh25)
 
 - 💬 Ask me about **Python, CPP, Generative AI**
 
 - 📫 How to reach me **lavish.sh25@gmail.com**
 
-- 📄 Know about my experiences [Lavish_Sharma_Resume.pdf](Lavish_Sharma_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-H6jtmdAqJQf0sWgyqxZQr-F1I_HZRuV/view?usp=sharing)
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

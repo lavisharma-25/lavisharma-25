@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [www.lavish-portfolio.com](www.lavish-portfolio.com)
 
-- 📝 I regularly write articles on [www.lavish-blogs.com](https://medium.com/@lavish.sh25)
+- 📝 I regularly write articles on [MEDIUM - @lavish.sh25](https://medium.com/@lavish.sh25)
 
 - 💬 Ask me about **Python, CPP, Generative AI**
 
 - 📫 How to reach me **lavish.sh25@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-H6jtmdAqJQf0sWgyqxZQr-F1I_HZRuV/view?usp=sharing)
+- 📄 Know about my experiences [LavishSharma - RESUME](https://drive.google.com/file/d/1-H6jtmdAqJQf0sWgyqxZQr-F1I_HZRuV/view?usp=sharing)
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->

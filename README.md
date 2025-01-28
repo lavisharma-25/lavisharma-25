@@ -6,7 +6,7 @@
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=lavisharma-25&label=Profile%20views&color=0e75b6&style=flat" alt="lavisharma-25" /> </p>
 <img align="right" alt="coding" width="300" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif">
 
-- 🔭 I’m currently working on [AI Assistant](https://github.com/lavisharma-25/AI-Assistant)
+- 🔭 I’m currently working on [AI Assistant](https://github.com/lavisharma-25/P04_AI-Assistant)
 
 - 🌱 I’m currently learning **Generative AI**
 

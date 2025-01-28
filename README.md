@@ -20,9 +20,9 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-H6jtmdAqJQf0sWgyqxZQr-F1I_HZRuV/view?usp=sharing)
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h3 align="left">My Latest Blogs:</h3>
+
+- [DeepSeek R1 vs OpenAI](https://medium.com/@lavish.sh25/deepseek-vs-openai-why-deepseek-is-outperforming-the-competition-beac40e828c1)
 
 <!-- SOCAIL -->
 <h3 align="left">🌐 Socials:</h3>

@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **lavish.sh25@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-H6jtmdAqJQf0sWgyqxZQr-F1I_HZRuV/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1WTJs9CN9XKCYv3KQ9RS_1U1EZysFR7TQ?usp=sharing)
 
 <h3 align="left">My Latest Blogs:</h3>
 

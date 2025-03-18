@@ -1,4 +1,4 @@
-![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgwMTM2NjUsIm5iZiI6MTczODAxMzM2NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI3VDIxMjkyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczNmYyYzkxZjBhZDUyZDEzNmIzMGE4ZTcxMGNhNjM5YTEzNmQzY2U0NTZmMWU3NDAxM2E0ZDczOTVjMjdmNWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UceL-nUbVDSA867jxxi4AKbPNIT17LkamG4bNzXQ1Zc)
+<!-- ![MasterHead]() -->
 <h1 align="center">Hi 👋, I'm Lavish Sharma</h1>
 <h3 align="center">A passionate AIML Developer from India</h3>
 <br>
@@ -6,13 +6,13 @@
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=lavisharma-25&label=Profile%20views&color=0e75b6&style=flat" alt="lavisharma-25" /> </p>
 <img align="right" alt="coding" width="300" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif">
 
-- 🔭 I’m currently working on [AI Assistant](https://github.com/lavisharma-25/P04_AI-Assistant)
+- 🔭 I’m currently working on [RAG Chatbot](https://github.com/lavisharma-25/P05_RAG_Chatbot)
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [www.lavish-portfolio.com](www.lavish-portfolio.com)
+- 👨‍💻 All of my projects are available at [www.lavisharma-25.github.io](https://lavisharma-25.github.io/)
 
-- 📝 I regularly write articles on [Medium - lavish.sh25](https://medium.com/@lavish.sh25)
+- 📝 I regularly write articles on [Medium](https://medium.com/@lavish.sh25)
 
 - 💬 Ask me about **Python, CPP, Generative AI**
 

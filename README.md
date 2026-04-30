@@ -53,8 +53,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
+<h3 align="left">TESTING</h3>
+![Metrics](/img/metrics.plugin.isocalendar.fullyear.svg)
+
+<p align="center"><img src="/img/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400"></p>
+
+<picture>
+  <img src="/img/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+</picture>
+
+
+
+
+
+
+
+
 <!-- SNAKE -->
-<img src="https://raw.githubusercontent.com/lavisharma-25/lavisharma-25/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/lavisharma-25/lavisharma-25/output/snake.svg" alt="Snake animation" /> -->
 
 <!--                 -->
 

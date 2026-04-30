@@ -1,0 +1,27 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily run
+  workflow_dispatch:
+  push:
+    branches: ["main", "master"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          
+          # Enable plugin
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

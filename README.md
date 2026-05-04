@@ -1,20 +1,17 @@
-![MasterHead]()
-<h1 align="center">Hi 👋, I'm Lavish Sharma</h1>
-<h3 align="center">A passionate AIML Developer from India</h3>
-<br>
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:0e75b6&height=280&section=header&text=Lavish%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20Systems%20%7C%20LLMs%20%7C%20RAG%20%7C%20Agentic%20AI&descAlign=50&descAlignY=70)
 
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=lavisharma-25&label=Profile%20views&color=0e75b6&style=flat" alt="lavisharma-25" /> </p>
 <img align="right" alt="coding" width="300" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif">
 
-- 🔭 I’m currently working on [Fine Tuning LLM Models]
+- 🔭 I’m currently working on Fine Tuning LLM Models
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [www.lavisharma-25.github.io](https://lavisharma-25.github.io/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@lavish.sh25)
 
-- 💬 Ask me about **Python, CPP, AI/ML**
+- 💬 Ask me about **Python, AI/ML**
 
 - 📫 How to reach me **lavish.sh25@gmail.com**
 

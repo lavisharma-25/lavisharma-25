@@ -6,7 +6,7 @@
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=lavisharma-25&label=Profile%20views&color=0e75b6&style=flat" alt="lavisharma-25" /> </p>
 <img align="right" alt="coding" width="300" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif">
 
-- 🔭 I’m currently working on [RAG Chatbot](https://github.com/lavisharma-25/P05_RAG_Chatbot)
+- 🔭 I’m currently working on [Fine Tuning LLM Models]
 
 - 🌱 I’m currently learning **Generative AI**
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@lavish.sh25)
 
-- 💬 Ask me about **Python, CPP, Generative AI**
+- 💬 Ask me about **Python, CPP, AI/ML**
 
 - 📫 How to reach me **lavish.sh25@gmail.com**
 
@@ -30,6 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavish-sharma-0108nm)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lavish.sh25) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lavisharma._/)
+[![X (Twitter)(https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=gray)]](https://x.com/lavish_sh25)
 
 <!-- TECHNOLOGIES -->
 <h3 align="left">💻 Languages and Tools:</h3>
@@ -52,27 +53,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
-<h3 align="left">TESTING</h3>
-![Metrics](/img/metrics.plugin.isocalendar.fullyear.svg)
-
-<p align="center"><img src="/img/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400"></p>
-
-<picture>
-  <img src="/img/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
-</picture>
-
-
-
-
-
-
-
-
-<!-- SNAKE -->
-<!-- <img src="https://raw.githubusercontent.com/lavisharma-25/lavisharma-25/output/snake.svg" alt="Snake animation" /> -->
-
-<!--                 -->
-
-<!-- <img src="https://raw.githubusercontent.com/lavisharma-25/lavisharma-25/output/pacman-contribution-graph.svg" alt="pacman contribution graph" /> -->

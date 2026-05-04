@@ -29,8 +29,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavish-sharma-0108nm)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lavish.sh25) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lavisharma._/)
-[![X (Twitter)(https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=gray)]](https://x.com/lavish_sh25)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lavisharma._/) -->
+[![X (Twitter)](https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=gray)](https://x.com/lavish_sh25)
 
 <!-- TECHNOLOGIES -->
 <h3 align="left">💻 Languages and Tools:</h3>

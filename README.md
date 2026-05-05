@@ -1,4 +1,3 @@
-<!-- ![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:0e75b6&height=280&section=header&text=Lavish%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20Systems%20%7C%20LLMs%20%7C%20RAG%20%7C%20Agentic%20AI&descAlign=50&descAlignY=70) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1abc9c&height=250&section=header&text=Lavish%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Building%20AI%20Systems%20%7C%20LLMs%20%7C%20RAG%20%7C%20Agentic%20AI&descSize=20&descAlign=50&descAlignY=70" />
 </p>
